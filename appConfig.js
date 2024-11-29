@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Agc Vercel",
+  title: "Easy Haristyle",
   tagline: "Free Download Image",
   description: "Agc is a website auto generate contents.",
   keywords: "cdom,cdom agc,cdom blog",
